@@ -24,7 +24,7 @@ Two quick start options are available:
 ## How to run
 * [Instructions](https://docs.google.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=truei)
 * Run populate.py to insert some example data
-* Run
+* Run catalogapp.py
 
 ## Creator
 [Zupanjac](https://github.com/Zupanjac)
